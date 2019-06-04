@@ -1,3 +1,4 @@
-interpreter/*.pyc
+interpreter/__pycache__/*.pyc
 .DS_Store
 interpreter/.DS_Store
+.pyc
