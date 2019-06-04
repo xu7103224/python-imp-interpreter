@@ -12,6 +12,7 @@
 from imp_lexer import *
 from combinators import *
 from imp_ast import *
+from functools import *
 
 def keyword(kw):
     return Reserved(kw, RESERVED)
